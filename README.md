@@ -13,7 +13,7 @@ File detection and syntax highlighting for the [Uxntal](https://wiki.xxiivv.com/
 Use your package manager of choice. If you don't know where to start, you can install this plugin with Vim's built-in package manager by just cloning this repository to somewhere in `~/.vim/`:
 
 ```console
-git clone https://github.com/karolbelina/uxntal.vim.git ~/.vim/pack/plugins/start/uxntal.vim
+git clone https://github.com/rav3ndust/uxntal.vim.git ~/.vim/pack/plugins/start/uxntal.vim
 ```
 
 Make sure that the following options are set in your `~/.vimrc` so that all features are enabled:
